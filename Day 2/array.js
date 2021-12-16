@@ -12,3 +12,5 @@ for(let i = 0; i < arrayKaName.length; i++){
 
 const arrayKaObject = [{name: "apple", colour: "red"}, {name: "mango", colour: yellow}]
 
+//class
+//id
